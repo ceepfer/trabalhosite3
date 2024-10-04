@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #6ab04c;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+.produto {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    background: #6ab04c;
+    color: white;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100% ;
+    
+
+}
+
+.caixa {
+    background: #6ab04c;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+
+
+    
+
+}
+.cosm {
+font-size: 20px;
+
+}
+
+.oii {
+    border: 1px solid #ccc;
+   font-size: 20px;
+
+}
+
+.marca2{
+    border: 1px solid #ccc;
+    font-size: 20px;
+}
+
